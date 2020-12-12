@@ -1,0 +1,3 @@
+Rencana cadangan :
+- Membuat web dasar
+- Membuat aplikasi sederhana
